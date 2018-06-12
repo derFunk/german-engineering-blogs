@@ -54,3 +54,9 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 📝 Blog: https://jobs.zalando.com/tech/
     * 🐦 Twitter: https://twitter.com/zalandotech
     * 🐙 GitHub: https://github.com/zalando
+
+# How to contribute
+
+Just create a pull request.
+
+Try to add a new entry at the alphabetically correct place.
