@@ -2,13 +2,20 @@
 
 A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *in* German.
 
+* **About You**
+    * 📍 Hamburg
+    * 📝 Blog: https://medium.com/about-developer-blog
+    * 🐦 Twitter: https://twitter.com/aboutyou_tech
+    * 🐙 Github: https://github.com/aboutyou
 * **Car2Go**
     * 📍 Stuttgart
     * 📝 Blog: https://medium.com/car2godevs
     * 🐦 Twitter: https://twitter.com/car2godevs
+    * 🐙 Github: https://github.com/car2go
 * **eGym**
     * 📍 Munich
     * 📝 Blog: https://code.egym.de/
+    * 🐙 Github: https://github.com/egymgmbh
 * **Freeletics**
     * 📍 Munich
     * 📝 Blog: https://freeletics.engineering/
@@ -60,3 +67,7 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
 Just create a pull request.
 
 Try to add a new entry at the alphabetically correct place.
+
+# License
+
+This compiled list: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
