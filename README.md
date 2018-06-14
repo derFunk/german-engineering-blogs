@@ -8,7 +8,7 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 🐦 Twitter: https://twitter.com/aboutyou_tech
     * 🐙 Github: https://github.com/aboutyou
 * **Car2Go**
-    * 📍 Stuttgart
+    * 📍 Berlin, Hamburg, Stuttgart
     * 📝 Blog: https://medium.com/car2godevs
     * 🐦 Twitter: https://twitter.com/car2godevs
     * 🐙 Github: https://github.com/car2go
