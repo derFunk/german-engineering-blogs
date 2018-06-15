@@ -19,6 +19,7 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
 * **Freeletics**
     * 📍 Munich
     * 📝 Blog: https://freeletics.engineering/
+    * 🐦 Twitter: https://twitter.com/FreeleticsEng
     * 🐙 GitHub: https://github.com/freeletics
 * **Foodora**
     * 📍 Berlin
@@ -37,6 +38,11 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 📍 Berlin
     * 📝 Blog: https://medium.com/insiden26
     * 🐙 GitHub: https://github.com/n26
+* **ottonova**
+    * 📍 Munich
+    * 📝 Blog: *WIP*
+    * 🐙 Github: https://github.com/ottonova
+    * 🐦 Twitter: *WIP* https://twitter.com/ottonova_tech
 * **Soundcloud**
     * 📍 Berlin
     * 📝 Blog: https://developers.soundcloud.com/blog/
