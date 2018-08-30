@@ -49,8 +49,8 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 📍 Munich
     * 📝 Blog: *WIP*
     * 🐙 Github: https://github.com/ottonova
-    * 🐦 Twitter: *WIP* https://twitter.com/ottonova_tech
-     * 🔀 Stackshare: *WIP*  https://stackshare.io/ottonova
+    * 🐦 Twitter: https://twitter.com/ottonova_tech
+     * 🔀 Stackshare: https://stackshare.io/ottonova
 * **Soundcloud**
     * 📍 Berlin
     * 📝 Blog: https://developers.soundcloud.com/blog/
@@ -73,6 +73,7 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
 * **XING**
     * 📍 Hamburg
     * 📝 Blog: https://tech.xing.com/
+    * 🐦 Twitter: https://twitter.com/xingdevs 
     * 🐙 GitHub: https://github.com/xing
     * 🔀 Stackshare: https://stackshare.io/xing
 * **Zalando**
