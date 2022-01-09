@@ -40,6 +40,11 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 📝 Blog: https://engineering.hellofresh.com/
     * 🐙 GitHub: https://github.com/hellofresh
     * 🔀 Stackshare: https://stackshare.io/hellofresh
+* **InnoQ**
+    * 📍 Monheim am Rhein
+    * 📝 Blog: https://www.innoq.com/de/written/
+    * 🐦 Twitter: https://twitter.com/INNOQ
+    * 🐙 Github: https://github.com/innoq
 * **N26**
     * 📍 Berlin
     * 📝 Blog: https://medium.com/insiden26
