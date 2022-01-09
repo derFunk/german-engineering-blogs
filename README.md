@@ -40,6 +40,10 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 📝 Blog: https://engineering.hellofresh.com/
     * 🐙 GitHub: https://github.com/hellofresh
     * 🔀 Stackshare: https://stackshare.io/hellofresh
+* **iteratec**
+    * 📍 München
+    * 📝 Blog: https://explore.iteratec.com/blog
+    * 🐙 GitHub: https://github.com/iteratec
 * **N26**
     * 📍 Berlin
     * 📝 Blog: https://medium.com/insiden26
