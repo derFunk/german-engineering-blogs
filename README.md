@@ -14,6 +14,11 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 🐦 Twitter: https://twitter.com/car2godevs
     * 🐙 Github: https://github.com/car2go
     * 🔀 Stackshare: https://stackshare.io/car2go
+* **codecentric**
+    * 📍 Solingen
+    * 📝 Blog: https://blog.codecentric.de/
+    * 🐦 Twitter: https://twitter.com/codecentric
+    * 🐙 Github: https://github.com/codecentric
 * **eGym**
     * 📍 Munich
     * 📝 Blog: https://code.egym.de/
