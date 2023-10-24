@@ -56,7 +56,7 @@ A curated list of engineering blogs made in Germany 🇩🇪. Not necessarily *i
     * 🔀 Stackshare: https://stackshare.io/n26
 * **ottonova**
     * 📍 Munich
-    * 📝 Blog: *WIP*
+    * 📝 Blog: https://www.ottonova.tech/
     * 🐙 Github: https://github.com/ottonova
     * 🐦 Twitter: https://twitter.com/ottonova_tech
      * 🔀 Stackshare: https://stackshare.io/ottonova
